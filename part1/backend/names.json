@@ -1,0 +1,14 @@
+[
+    {
+        "name": "govind",
+        "email": "govind@gmail.com",
+        "password": "12",
+        "confirm_password": "12"
+    },
+    {
+        "name": "gopu",
+        "email": "abcd@gmail.com",
+        "password": "123",
+        "confirm_password": "123"
+    }
+]
